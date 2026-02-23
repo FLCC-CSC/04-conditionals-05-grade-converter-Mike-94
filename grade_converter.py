@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Michael Reed
+# DATE: 2/22/2026
+# BRIEF DESCRIPTION: Converting a numerical grade to a letter grade.  
 
 
 
@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+I would be careful and make sure you read the specifications."Using mathematical bracket notation where [...] means inclusive and (...) means exclusive, the scale is below. As an example, the grade 70 would be converted to a C."
 
 
 
